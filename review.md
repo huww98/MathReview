@@ -26,7 +26,7 @@
 
 * 偏导数、全微分
 * 方向导数、梯度
-  $$\nabla f=\{\frac{\partial f}{\partial x},\frac{\partial f}{\partial y},\frac{\partial f}{\partial z}\}\\
+  $$\nabla f=\left\{\frac{\partial f}{\partial x},\frac{\partial f}{\partial y},\frac{\partial f}{\partial z}\right\}\\
   \frac{\partial f}{\partial l}=\nabla f\cdot\mathbf{l}$$
 * 隐函数微分：求全微分
 * 最优化问题
